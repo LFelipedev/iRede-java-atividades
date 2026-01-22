@@ -42,12 +42,12 @@ Exemplo:
 
 2. Compile o arquivo desejado:
    ```bash
-   javac NomeDoArquivo.java
+   javac arquivo.java
    ```
 
 3. Execute o programa:
    ```bash
-   java NomeDoArquivo
+   java arquivo.java
    ```
 
 ## 🎯 Objetivo
