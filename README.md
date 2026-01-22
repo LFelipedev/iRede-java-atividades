@@ -22,7 +22,8 @@ Cada atividade pode estar organizada em arquivos separados ou em pastas, de acor
 Exemplo:
 ```
 📁 unidade-1
- ├── q1.java
+ ├── q1.java (código fonte)
+ ├── q1.md (explicação do conteúdo abordado na questão)
  ├── q2.java
  └── ...
 ```
