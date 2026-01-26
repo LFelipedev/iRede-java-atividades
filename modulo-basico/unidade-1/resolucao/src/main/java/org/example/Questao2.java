@@ -5,7 +5,7 @@ package org.example;
  *  ENUNCIADO: Escreva um programa que mostre na tela os tipos de dados primitivos em Java com seus valores atribuídos.
  */
 
-public class q2 {
+public class Questao2 {
     public static void main(String[] args) {
 
         boolean maiorIdade = true;

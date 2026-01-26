@@ -5,7 +5,7 @@ package org.example;
  *  ENUNCIADO: Escreva um programa Java que use os operadores lógicos para verificar se um número está entre 10 e 20 (inclusive). Use: int numero = 15;
  */
 
-public class q1 {
+public class Questao1 {
     public static void main(String[] args) {
         int numero = 15; //Declarando a variável
 
